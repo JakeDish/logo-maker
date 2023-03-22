@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "name": "logo-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeDish/logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeDish/logo-maker/issues"
+  },
+  "homepage": "https://github.com/JakeDish/logo-maker#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
